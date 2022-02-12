@@ -2,6 +2,8 @@
 
 **Matt's repo of configs and programs for Docker project**
 
+## IF YOU'RE TRYING TO COPY MY WORK, TRY TO COPY 100%, INCLUDING ALL TABLE ATTRIBUTES AND VARIABLES IN PROGRAMS TO AVOID ISSUES
+
 ---
 
 Docker image used:
