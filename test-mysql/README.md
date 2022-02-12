@@ -2,9 +2,10 @@
 
 MySQL database: users
 
-Tables query:\
-create table user(\
-user varchar(200),\
-points int,\
-datetime_stamp varchar(100)\
-);
+Tables query:
+```sql
+create table user(
+user varchar(200),
+points int,
+datetime_stamp varchar(100)
+);```
