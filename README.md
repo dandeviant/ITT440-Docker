@@ -1,6 +1,7 @@
 # Docker Project
 
-Matt's repo of configs and programs for Docker project
+# Matt's repo of configs and programs for Docker project
+
 ---
 
 Docker image used:
