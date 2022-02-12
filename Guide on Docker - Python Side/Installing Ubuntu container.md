@@ -18,7 +18,7 @@ sudo docker run -t -d --name itt440-pyclient --network itt440-docker --link itt4
 sudo docker exec -it itt440-pyclient bash
 ```
 
-Things to install in container
+How to install
 ```bash
 $ apt-get update
 $ apt install python3 \
@@ -30,7 +30,7 @@ $ apt install python3 \
 $ pip install mysql-connector-python
 ```
 
-Things to install
+List of things to install
 > - python3
 > - python3-pip
 > - mysql-connector-python
