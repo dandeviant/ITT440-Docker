@@ -30,7 +30,7 @@ $ apt install python3 \
 $ pip install mysql-connector-python
 ```
 
-List of things to install
+List of things to install INSIDE EACH DOCKER CONTAINER
 > - python3
 > - python3-pip
 > - mysql-connector-python
