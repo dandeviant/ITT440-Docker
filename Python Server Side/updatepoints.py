@@ -1,5 +1,7 @@
 #!/usr/bin/python3
 
+# UPDATE POINTS FOR MORBIUS BY ADDING 1 POINT EVERY 2 SECONDS AS LONG AS THE SCRIPT IS RUNNING
+
 import time
 import os
 try:
