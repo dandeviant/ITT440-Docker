@@ -3,7 +3,7 @@
 Matt's repo of configs and programs for Docker project
 ---
 
-Container used:
+Docker image used:
 
 Python Client Server: ubuntu:latest\
 C Client Server: ubuntu:latest\
