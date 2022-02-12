@@ -8,4 +8,4 @@ create table user(
 user varchar(200),
 points int,
 datetime_stamp varchar(100)
-);```
+);
