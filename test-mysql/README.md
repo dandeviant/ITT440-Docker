@@ -8,7 +8,7 @@ create table user(
 user varchar(200),
 points int,
 datetime_stamp varchar(100)
-);
+);```
 
 Sample row data query: 
 ```sql
