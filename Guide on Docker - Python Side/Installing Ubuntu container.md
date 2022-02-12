@@ -30,6 +30,7 @@ $ apt install python3 \
 $ pip install mysql-connector-python
 ```
 
+Things to install
 > - python3
 > - python3-pip
 > - mysql-connector-python
