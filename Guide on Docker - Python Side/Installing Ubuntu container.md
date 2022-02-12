@@ -33,7 +33,7 @@ $ pip install mysql-connector-python
 List of things to install INSIDE EACH DOCKER CONTAINER
 > - python3
 > - python3-pip
-> - mysql-connector-python
+> - mysql-connector-python <---- use pip after installing python3-pip
 > - net-tools
 > - iputils-ping
 > - nano / vim / ee
