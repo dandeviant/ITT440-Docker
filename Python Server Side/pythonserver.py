@@ -37,7 +37,6 @@ while True:
    cursor.execute(sql)
    record = cursor.fetchall()
    print("Record: ", record)
-   null = "[]"
    row = cursor.rowcount
    print("Number of row: %s"%(row))
 
