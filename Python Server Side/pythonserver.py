@@ -37,6 +37,7 @@ while True:
    cursor.execute(sql)
    record = cursor.fetchall()
    print("Record: ", record)
+   null = "[]"
    row = cursor.rowcount
    print("Number of row: %s"%(row))
 
@@ -62,3 +63,4 @@ while True:
         s.sendto(bytes(msg.encode()), (addr[0], addr[1]))
         print("Points %s sent to client " %(msg))
         cursor.close()
+        print("\n")
